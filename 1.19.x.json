@@ -1,0 +1,27 @@
+{
+  "latestRelease": {
+    "modVersion": "2.2.1",
+    "mcVersion": "1.19.2"
+  },
+  "severelyIncompatible": [
+    { "modId": "pehkui", "modName": "Pehkui", "startVersion": "3.4.0" },
+    { "modId": "mcxr-core", "modName": "MCXR"},
+    { "modId": "taterzens", "modName": "Taterzens"},
+    { "modId": "altoclef", "modName": "Altoclef"},
+    { "modId": "twilightforest", "modName": "Twilight Forest"},
+    { "modId": "c2me", "modName": "C2ME"}
+  ],
+  "incompatible": [
+    { "modId": "physicsmod", "modName": "Physics Mod" },
+    { "modId": "cameraoverhaul", modName: "Camera Overhaul" },
+    { "modId": "figura", modName: "Figura" },
+    { "modId": "dimthread", modName: "Dimensional Threading" },
+    { "modId": "requiem", modName: "Requiem" },
+    { "modId": "vmp", modName: "VMP" },
+    { "modId": "modern_industrialization", modName: "Modern Industrialization" },
+    { "modId": "journeymap", modName: "JourneyMap" },
+    { "modId": "tweakeroo", modName: "Tweakeroo" },
+    { "modId": "create", modName: "Create" },
+    { "modId": "replaymod", "modName": "Replay Mod"},
+  ]
+}
