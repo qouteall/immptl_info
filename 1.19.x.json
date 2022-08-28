@@ -1,10 +1,9 @@
 {
   "latestRelease": {
-    "modVersion": "2.2.1",
+    "modVersion": "2.2.2",
     "mcVersion": "1.19.2"
   },
   "severelyIncompatible": [
-    { "modId": "pehkui", "modName": "Pehkui", "startVersion": "3.4.0" },
     { "modId": "mcxr-core", "modName": "MCXR"},
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
