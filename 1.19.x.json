@@ -8,7 +8,8 @@
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "twilightforest", "modName": "Twilight Forest"},
-    { "modId": "c2me", "modName": "C2ME"}
+    { "modId": "c2me", "modName": "C2ME"},
+    { "modId": "lod", modName: "Distant Horizons"}
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod" },
