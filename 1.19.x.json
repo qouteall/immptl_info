@@ -9,7 +9,8 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "twilightforest", "modName": "Twilight Forest"},
     { "modId": "c2me", "modName": "C2ME"},
-    { "modId": "lod", modName: "Distant Horizons"}
+    { "modId": "lod", modName: "Distant Horizons"},
+    { "modId": "connectivity", modName: "Connectivity"},
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod" },
