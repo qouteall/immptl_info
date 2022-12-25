@@ -7,8 +7,8 @@
     { "modId": "mcxr-core", "modName": "MCXR"},
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "twilightforest", "modName": "Twilight Forest"},
     { "modId": "c2me", "modName": "C2ME"},
+    { "modId": "collective-fabric", "modName": "Collective" }
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod" },
@@ -22,5 +22,6 @@
     { "modId": "tweakeroo", "modName": "Tweakeroo" },
     { "modId": "create", "modName": "Create" },
     { "modId": "replaymod", "modName": "Replay Mod"},
+    { "modId": "twilightforest", "modName": "Twilight Forest"}
   ]
 }
