@@ -7,7 +7,8 @@
     { "modId": "mcxr-core", "modName": "MCXR"},
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "c2me", "modName": "C2ME"}
+    { "modId": "c2me", "modName": "C2ME"},
+    { "modId": "tempad", "modName": "Tempad" }
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod" },
