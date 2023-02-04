@@ -1,0 +1,22 @@
+{
+  "latestRelease": {
+    "modVersion": "2.4.9"
+  },
+  "severelyIncompatible": [
+    { "modId": "mcxr-core", "modName": "MCXR", "desc": "Portal cannot be rendered in VR.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/845" },
+    { "modId": "taterzens", "modName": "Taterzens"},
+    { "modId": "altoclef", "modName": "Altoclef"},
+    { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading will not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
+    { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" },
+     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
+  ],
+  "incompatible": [
+    { "modId": "physicsmod", "modName": "Physics Mod", "desc": "Some physics effect will be abnormal.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" },
+    { "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally." },
+    { "modId": "requiem", "modName": "Requiem"},
+    { "modId": "modern_industrialization", "modName": "Modern Industrialization", "desc": "Translucent things may not be occluded when rendering a portal." },
+    { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions will be invisible." },
+    { "modId": "twilightforest", "modName": "Twilight Forest", "desc": "The Twilight Forest map sometimes doesn't work."},
+    { "modId": "collective-fabric", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222" }
+  ]
+}
