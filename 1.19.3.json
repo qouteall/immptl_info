@@ -6,7 +6,8 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading will not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" },
-     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
+    { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
+    { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod", "desc": "Some physics effect will be abnormal.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" },
