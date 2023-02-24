@@ -4,7 +4,6 @@
     { "modId": "mcxr-core", "modName": "MCXR", "desc": "Portal cannot be rendered in VR.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/845" },
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" },
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
   "incompatible": [
@@ -16,6 +15,7 @@
     { "modId": "twilightforest", "modName": "Twilight Forest", "desc": "The Twilight Forest map sometimes doesn't work."},
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
-    { "modId": "collective-fabric", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222" }
+    { "modId": "collective-fabric", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222" },
+    { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
   ]
 }
