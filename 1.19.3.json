@@ -4,7 +4,8 @@
     { "modId": "mcxr-core", "modName": "MCXR", "desc": "Portal cannot be rendered in VR.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/845" },
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "vs_eureka", "modName": "Eureka Airships" }
+    { "modId": "vs_eureka", "modName": "Eureka Airships" },
+    { "modId": "multiworld", "modName": "MultiWorld" }
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod", "desc": "Some physics effect will be abnormal.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" },
