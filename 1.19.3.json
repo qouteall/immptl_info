@@ -5,6 +5,7 @@
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
+    { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" }
   ],
   "incompatible": [
