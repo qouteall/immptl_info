@@ -19,5 +19,8 @@
     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
     { "modId": "collective-fabric", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
+  ],
+  "incompatibleShaderpacks": [
+    "sildur"
   ]
 }
