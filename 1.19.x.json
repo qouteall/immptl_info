@@ -7,7 +7,6 @@
     { "modId": "mcxr-core", "modName": "MCXR"},
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "c2me", "modName": "C2ME"},
     { "modId": "essential-container", "modName": "Essential" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
@@ -22,6 +21,7 @@
     { "modId": "modern_industrialization", "modName": "Modern Industrialization" },
     { "modId": "create", "modName": "Create" },
     { "modId": "twilightforest", "modName": "Twilight Forest"},
+    { "modId": "c2me", "modName": "C2ME"},
     { "modId": "collective-fabric", "modName": "Collective" }
   ]
 }
