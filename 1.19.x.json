@@ -9,6 +9,7 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "essential-container", "modName": "Essential" },
     { "modId": "backslot", "modName": "BaskSlot" },
+    { "modId": "c2me", "modName": "C2ME"},
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
   "incompatible": [
@@ -21,7 +22,7 @@
     { "modId": "modern_industrialization", "modName": "Modern Industrialization" },
     { "modId": "create", "modName": "Create" },
     { "modId": "twilightforest", "modName": "Twilight Forest"},
-    { "modId": "c2me", "modName": "C2ME"},
+    
     { "modId": "collective-fabric", "modName": "Collective" }
   ]
 }
