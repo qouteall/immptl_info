@@ -21,6 +21,6 @@
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
   ],
   "incompatibleShaderpacks": [
-    "sildur"
+    "sildur", "arc"
   ]
 }
