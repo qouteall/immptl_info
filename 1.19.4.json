@@ -6,7 +6,8 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
-    { "modId": "multiworld", "modName": "MultiWorld" }
+    { "modId": "multiworld", "modName": "MultiWorld" },
+    { "modId": "nvidium", "modName": "Nvidium" },
   ],
   "incompatible": [
     { "modId": "physicsmod", "modName": "Physics Mod", "desc": "Some physics effect will be abnormal.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" },
