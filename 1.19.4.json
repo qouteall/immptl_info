@@ -7,6 +7,7 @@
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" },
+    { "modId": "entityculling", "modName": "Entity Culling" },
     { "modId": "nvidium", "modName": "Nvidium" }
   ],
   "incompatible": [
