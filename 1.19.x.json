@@ -7,7 +7,6 @@
     { "modId": "mcxr-core", "modName": "MCXR"},
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "essential-container", "modName": "Essential" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "c2me", "modName": "C2ME"},
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
