@@ -8,6 +8,7 @@
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" },
     { "modId": "entityculling", "modName": "Entity Culling" },
+    { "modId": "essential-container", "modName": "Essential" },
     { "modId": "nvidium", "modName": "Nvidium" }
   ],
   "incompatible": [
