@@ -9,6 +9,7 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "c2me", "modName": "C2ME"},
+    { "modId": "essential-container", "modName": "Essential" },
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
   "incompatible": [
