@@ -6,6 +6,7 @@
     { "modId": "altoclef", "modName": "Altoclef"},
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
+    { "modId": "essential-container", "modName": "Essential" },
     { "modId": "multiworld", "modName": "MultiWorld" }
   ],
   "incompatible": [
