@@ -10,6 +10,7 @@
     { "modId": "entityculling", "modName": "Entity Culling" },
     { "modId": "nvidium", "modName": "Nvidium" },
     { "modId": "essential-container", "modName": "Essential" },
+    { "modId": "world-host", "modName": "World Host" },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [
