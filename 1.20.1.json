@@ -12,6 +12,7 @@
     { "modId": "essential-container", "modName": "Essential" },
     { "modId": "krypton", "modName": "Krypton" },
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
+    { "modId": "baritone", "modName": "Baritone" },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [

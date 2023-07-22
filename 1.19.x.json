@@ -11,6 +11,8 @@
     { "modId": "c2me", "modName": "C2ME"},
     { "modId": "essential-container", "modName": "Essential" },
     { "modId": "krypton", "modName": "Krypton" },
+    { "modId": "chunksfadein", "modName": "Chunks Fade In" },
+    { "modId": "baritone", "modName": "Baritone" },
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
   "incompatible": [
