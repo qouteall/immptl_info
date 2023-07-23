@@ -12,6 +12,7 @@
     { "modId": "krypton", "modName": "Krypton" },
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "baritone", "modName": "Baritone" },
+    { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "nvidium", "modName": "Nvidium" }
   ],
   "incompatible": [
