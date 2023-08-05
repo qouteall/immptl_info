@@ -14,7 +14,6 @@
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "baritone", "modName": "Baritone" },
-    { "modId": "textile_backup", "modName": "Textile Backup" },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [
@@ -27,6 +26,7 @@
     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
     { "modId": "world-host", "modName": "World Host" },
     { "modId": "lod", "modName": "Distant Horizons" },
+    { "modId": "textile_backup", "modName": "Textile Backup" },
     { "modId": "victus", "modName": "Victus", "desc": "Makes portal invisible when using shaders" },
     { "modId": "collective-fabric", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
