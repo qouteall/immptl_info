@@ -14,6 +14,7 @@
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "baritone", "modName": "Baritone" },
+    { "modId": "textile_backup", "modName": "Textile Backup" },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [
