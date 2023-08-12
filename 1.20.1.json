@@ -10,7 +10,6 @@
     { "modId": "nvidium", "modName": "Nvidium" },
     { "modId": "essential-container", "modName": "Essential" },
     { "modId": "krypton", "modName": "Krypton" },
-    { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "baritone", "modName": "Baritone" },
     { 
