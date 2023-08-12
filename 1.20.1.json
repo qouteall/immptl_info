@@ -13,6 +13,11 @@
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "baritone", "modName": "Baritone" },
+    { 
+      "modId": "bettertrims", 
+      "modName": "bettertrims", 
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1413"
+    },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [
@@ -27,6 +32,12 @@
     { "modId": "lod", "modName": "Distant Horizons" },
     { "modId": "entityculling", "modName": "Entity Culling", "desc": "Entities may be invisible when looking at a portal." },
     { "modId": "victus", "modName": "Victus", "desc": "Makes portal invisible when using shaders" },
+    { 
+      "modId": "shouldersurfing", 
+      "modName": "Shoulder Surfing", 
+      "desc": "When in the 3rd person shoulder surfing view the portal doesnt render properly", 
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1412"
+    },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
   ],
