@@ -9,7 +9,6 @@
     { "modId": "multiworld", "modName": "MultiWorld" },
     { "modId": "nvidium", "modName": "Nvidium" },
     { "modId": "essential-container", "modName": "Essential" },
-    { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "baritone", "modName": "Baritone" },
     { 
       "modId": "bettertrims", 
@@ -41,6 +40,7 @@
       "modName": "Simple Voice Chat", 
       "desc": "Voice may stutter when looking at portal? (Not yet confirmed.)"
     },
+    { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
   ],
