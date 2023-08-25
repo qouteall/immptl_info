@@ -36,10 +36,16 @@
       "desc": "When in the 3rd person shoulder surfing view the portal doesnt render properly", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1412"
     },
-     { 
+    { 
       "modId": "voicechat", 
       "modName": "Simple Voice Chat", 
       "desc": "Voice may stutter when looking at portal? (Not yet confirmed.)"
+    },
+    { 
+      "modId": "vivecraft", 
+      "modName": "Vivecraft", 
+      "desc": "Protal rendering and teleportation may be abnormal.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1427"
     },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
