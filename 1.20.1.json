@@ -16,6 +16,12 @@
       "modName": "bettertrims", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1413"
     },
+    { 
+      "modId": "vivecraft", 
+      "modName": "Vivecraft", 
+      "desc": "Protal rendering and teleportation may be abnormal.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1427"
+    },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"}
   ],
   "incompatible": [
@@ -40,12 +46,6 @@
       "modId": "voicechat", 
       "modName": "Simple Voice Chat", 
       "desc": "Voice may stutter when looking at portal? (Not yet confirmed.)"
-    },
-    { 
-      "modId": "vivecraft", 
-      "modName": "Vivecraft", 
-      "desc": "Protal rendering and teleportation may be abnormal.",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1427"
     },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
