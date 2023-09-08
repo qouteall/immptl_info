@@ -1,6 +1,6 @@
 {
-  "latestReleaseVersion": "3.2.6",
-  "previewVersions": ["3.2.7", "3.2.8"],
+  "latestReleaseVersion": "3.2.8",
+  "previewVersions": [],
   "severelyIncompatible": [
     { "modId": "mcxr-core", "modName": "MCXR", "desc": "Portal cannot be rendered in VR.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/845" },
     { "modId": "taterzens", "modName": "Taterzens"},
