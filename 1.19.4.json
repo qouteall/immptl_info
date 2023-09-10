@@ -8,7 +8,6 @@
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" },
     { "modId": "entityculling", "modName": "Entity Culling" },
-    { "modId": "essential-container", "modName": "Essential" },
     { "modId": "krypton", "modName": "Krypton" },
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "baritone", "modName": "Baritone" },
