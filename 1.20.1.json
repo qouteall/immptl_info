@@ -45,6 +45,12 @@
       "modName": "Simple Voice Chat", 
       "desc": "Voice may stutter when looking at portal? (Not yet confirmed.)"
     },
+    { 
+      "modId": "rootsclassic", 
+      "modName": "RootsClassic", 
+      "desc": "The performance may drop.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1448"
+    },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
