@@ -51,6 +51,12 @@
       "desc": "The performance may drop.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1448"
     },
+    { 
+      "modId": "owo", 
+      "modName": "owo", 
+      "desc": "Portal rendering with Iris shader may not work.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1450"
+    },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
     { "modId": "essential-container", "modName": "Essential", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1264" }
