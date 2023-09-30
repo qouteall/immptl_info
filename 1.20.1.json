@@ -52,8 +52,14 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1448"
     },
     { 
-      "modId": "owo", 
-      "modName": "owo", 
+      "modId": "conjuring", 
+      "modName": "Conjuring", 
+      "desc": "Portal rendering with Iris shader may not work.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1450"
+    },
+    { 
+      "modId": "things", 
+      "modName": "Things", 
       "desc": "Portal rendering with Iris shader may not work.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1450"
     },
