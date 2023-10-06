@@ -1,6 +1,6 @@
 {
-  "latestReleaseVersion": "4.0.0",
-  "previewVersions": ["4.0.0"],
+  "latestReleaseVersion": "4.0.1",
+  "previewVersions": ["4.0.1"],
   "severelyIncompatible": [
     { 
       "modId": "mcxr-core", 
