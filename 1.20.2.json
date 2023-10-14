@@ -25,12 +25,6 @@
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1427"
-    },
-    { 
-      "modId": "c2me",
-      "modName": "C2ME", 
-      "desc": "Chunk loading and portal creation may not work normally.",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"
     }
   ],
   "incompatible": [
@@ -94,6 +88,12 @@
       "modId": "sound_physics_remastered", 
       "modName": "Sound Physics Remasterd", 
       "desc":"The game may be very laggy" 
+    },
+    { 
+      "modId": "c2me",
+      "modName": "C2ME", 
+      "desc": "Chunk loading and portal creation may not work normally.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"
     },
     { 
       "modId": "collective", 
