@@ -16,6 +16,12 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1413"
     },
     { 
+      "modId": "betterclouds", 
+      "modName": "betterclouds", 
+      "desc":"Portal rendering will not work normally",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
+    },
+    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",

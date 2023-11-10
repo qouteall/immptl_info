@@ -1,6 +1,6 @@
 {
   "latestReleaseVersion": "4.0.3",
-  "previewVersions": ["4.1.0"],
+  "previewVersions": [],
   "severelyIncompatible": [
     { 
       "modId": "mcxr-core", 
@@ -19,6 +19,12 @@
       "modId": "bettertrims", 
       "modName": "bettertrims", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1413"
+    },
+    { 
+      "modId": "betterclouds", 
+      "modName": "betterclouds", 
+      "desc":"Portal rendering will not work normally",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
     },
     { 
       "modId": "vivecraft", 
