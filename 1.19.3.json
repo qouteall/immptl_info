@@ -7,6 +7,12 @@
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "essential-container", "modName": "Essential" },
+    { 
+      "modId": "betterclouds", 
+      "modName": "betterclouds", 
+      "desc":"Portal rendering will not work normally",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
+    },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "multiworld", "modName": "MultiWorld" }
   ],

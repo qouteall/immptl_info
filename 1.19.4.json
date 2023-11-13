@@ -11,6 +11,12 @@
     { "modId": "krypton", "modName": "Krypton" },
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "baritone", "modName": "Baritone" },
+    { 
+      "modId": "betterclouds", 
+      "modName": "betterclouds", 
+      "desc":"Portal rendering will not work normally",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
+    },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "nvidium", "modName": "Nvidium" }
   ],
