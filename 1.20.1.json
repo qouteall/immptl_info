@@ -28,12 +28,6 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1472"
     },
     { 
-      "modId": "fabrictailor", 
-      "modName": "Fabric Tailor", 
-      "desc": "The game will malfunction when skin changes.",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
-    },
-    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
@@ -79,6 +73,12 @@
       "modName": "Things", 
       "desc": "Portal rendering with Iris shader may not work.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1450"
+    },
+    { 
+      "modId": "fabrictailor", 
+      "modName": "Fabric Tailor", 
+      "desc": "The game will malfunction when skin changes.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
     },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
