@@ -28,6 +28,12 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1472"
     },
     { 
+      "modId": "fabrictailor", 
+      "modName": "Fabric Tailor", 
+      "desc": "The game will malfunction when skin changes.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
+    },
+    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
