@@ -28,6 +28,12 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1472"
     },
     { 
+      "modId": "bobby", 
+      "modName": "Bobby", 
+      "desc":"",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/953"
+    },
+    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
