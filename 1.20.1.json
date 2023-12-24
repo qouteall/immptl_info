@@ -8,7 +8,6 @@
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" },
-    { "modId": "nvidium", "modName": "Nvidium" },
     { "modId": "baritone", "modName": "Baritone" },
     { 
       "modId": "bettertrims", 
@@ -85,6 +84,12 @@
       "modName": "Fabric Tailor", 
       "desc": "The game will malfunction when skin changes.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
+    },
+    {
+      "modId": "nvidium",
+      "modName": "Nvidium",
+      "desc": "Portal rendering will not work normally. Game may crash when changing nvidium option.",
+      "link":"https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1359"
     },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },

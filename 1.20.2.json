@@ -13,7 +13,6 @@
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "multiworld", "modName": "MultiWorld" },
-    { "modId": "nvidium", "modName": "Nvidium" },
     { "modId": "baritone", "modName": "Baritone" },
     { 
       "modId": "bettertrims", 
@@ -101,6 +100,12 @@
       "modName": "Things", 
       "desc": "Portal rendering with Iris shader may not work.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1450"
+    },
+    {
+      "modId": "nvidium",
+      "modName": "Nvidium",
+      "desc": "Portal rendering will not work normally. Game may crash when changing nvidium option.",
+      "link":"https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1359"
     },
     { 
       "modId": "sound_physics_remastered", 
