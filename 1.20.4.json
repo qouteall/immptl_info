@@ -110,7 +110,7 @@
     { 
       "modId": "sound_physics_remastered", 
       "modName": "Sound Physics Remasterd", 
-      "desc":"The game may be very laggy" 
+      "desc":"The game may be very laggy (Not yet confirmed. If not, please report to qouteall)"
     },
     { 
       "modId": "c2me",
@@ -123,6 +123,12 @@
       "modName": "Fabric Tailor", 
       "desc": "The game will malfunction when skin changes.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
+    },
+    { 
+      "modId": "betternether", 
+      "modName": "Better Nether", 
+      "desc": "The fog rendering in nether portal may be abnormal.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1493"
     },
     { 
       "modId": "collective", 
