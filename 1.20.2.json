@@ -108,11 +108,6 @@
       "link":"https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1359"
     },
     { 
-      "modId": "sound_physics_remastered", 
-      "modName": "Sound Physics Remasterd", 
-      "desc":"The game may be very laggy" 
-    },
-    { 
       "modId": "c2me",
       "modName": "C2ME", 
       "desc": "Chunk loading and portal creation may not work normally.",
