@@ -11,6 +11,12 @@
     { "modId": "krypton", "modName": "Krypton" },
     { "modId": "chunksfadein", "modName": "Chunks Fade In" },
     { "modId": "baritone", "modName": "Baritone" },
+    {
+      "modId": "nostalgic_tweaks",
+      "modName": "Nostalgic Tweaks",
+      "desc": "Lighting abnormal when old light rendering is enabled.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
+    },
     { 
       "modId": "betterclouds", 
       "modName": "betterclouds", 

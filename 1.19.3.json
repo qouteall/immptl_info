@@ -7,6 +7,12 @@
     { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { "modId": "essential-container", "modName": "Essential" },
+    {
+      "modId": "nostalgic_tweaks",
+      "modName": "Nostalgic Tweaks",
+      "desc": "Lighting abnormal when old light rendering is enabled.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
+    },
     { 
       "modId": "betterclouds", 
       "modName": "betterclouds", 

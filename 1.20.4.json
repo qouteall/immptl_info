@@ -125,6 +125,12 @@
       "desc": "The fog rendering in nether portal may be abnormal.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1493"
     },
+    {
+      "modId": "nostalgic_tweaks",
+      "modName": "Nostalgic Tweaks",
+      "desc": "Lighting abnormal when old light rendering is enabled.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
+    },
     { 
       "modId": "collective", 
       "modName": "Collective", 

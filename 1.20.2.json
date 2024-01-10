@@ -119,6 +119,12 @@
       "desc": "The game will malfunction when skin changes.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1476"
     },
+    {
+      "modId": "nostalgic_tweaks",
+      "modName": "Nostalgic Tweaks",
+      "desc": "Lighting abnormal when old light rendering is enabled.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
+    },
     { 
       "modId": "collective", 
       "modName": "Collective", 

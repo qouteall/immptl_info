@@ -18,6 +18,12 @@
       "desc":"Portal rendering will not work normally",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
     },
+    {
+      "modId": "nostalgic_tweaks",
+      "modName": "Nostalgic Tweaks",
+      "desc": "Lighting abnormal when old light rendering is enabled.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
+    },
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "vs_eureka", "modName": "Eureka Airships" }
   ],
