@@ -38,12 +38,6 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/953"
     },
     { 
-      "modId": "physicsmod", 
-      "modName": "Physics Mod", 
-      "desc": "The game may crash. Some physics effect will be abnormal.", 
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" 
-    },
-    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
@@ -51,6 +45,12 @@
     }
   ],
   "incompatible": [
+    { 
+      "modId": "physicsmod", 
+      "modName": "Physics Mod", 
+      "desc": "Some physics effect will be abnormal.", 
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" 
+    },
     { "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally." },
     { "modId": "requiem", "modName": "Requiem"},
     { 
