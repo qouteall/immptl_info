@@ -41,6 +41,12 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/953"
     },
     { 
+      "modId": "voxy", 
+      "modName": "Voxy", 
+      "desc":"",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
+    },
+    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Protal rendering and teleportation may be abnormal.",
