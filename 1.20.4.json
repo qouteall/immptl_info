@@ -60,7 +60,10 @@
       "desc": "Some physics effect will be abnormal.", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" 
     },
-    { "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally." },
+    { 
+      "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/587"
+    },
     { "modId": "requiem", "modName": "Requiem"},
     { 
       "modId": "modern_industrialization", 
