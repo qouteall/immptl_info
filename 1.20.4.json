@@ -23,12 +23,6 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1413"
     },
     { 
-      "modId": "betterclouds", 
-      "modName": "betterclouds", 
-      "desc":"Portal rendering will not work normally",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
-    },
-    { 
       "modId": "worldthreader", 
       "modName": "Dimensional Threading (World Threader)", 
       "desc":"",
