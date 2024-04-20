@@ -100,6 +100,12 @@
       "desc": "Lighting abnormal when old light rendering is enabled.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
     },
+    {
+      "modId": "computercraft",
+      "modName": "ComputerCraft",
+      "desc": "Seeing a CC Turtle through an Immersive Portal crashes the game",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1546"
+    },
     { "modId": "c2me", "modName": "C2ME", "desc": "Chunk loading and portal creation may not work normally.", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"},
     { "modId": "sound_physics_remastered", "modName": "Sound Physics Remasterd", "desc":"The game may be very laggy" },
     { "modId": "collective", "modName": "Collective", "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", "desc":"Entity may be invisible when looking at portal" },
