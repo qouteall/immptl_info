@@ -143,6 +143,12 @@
       "desc": "Seeing a CC Turtle through an Immersive Portal crashes the game",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1546"
     },
+    {
+      "modId": "visualoverhaul",
+      "modName": "Visual Overhaul",
+      "desc": "",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1547"
+    },
     { 
       "modId": "collective", 
       "modName": "Collective", 
