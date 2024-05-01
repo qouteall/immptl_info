@@ -128,12 +128,6 @@
       "desc": "Lighting abnormal when old light rendering is enabled.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1505"
     },
-    {
-      "modId": "computercraft",
-      "modName": "ComputerCraft",
-      "desc": "Seeing a CC Turtle through an Immersive Portal crashes the game",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1546"
-    },
     { 
       "modId": "collective", 
       "modName": "Collective", 
